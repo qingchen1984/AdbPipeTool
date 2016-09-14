@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{B506B18D-E7B3-46C6-83E9-86C70896C931}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AdbPipe", "AdbPipe\AdbPipe.vcproj", "{A8894546-0886-43E6-8229-69631199EF2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Test release|Win32 = Test release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B506B18D-E7B3-46C6-83E9-86C70896C931}.Debug|Win32.ActiveCfg = Debug
+		{B506B18D-E7B3-46C6-83E9-86C70896C931}.Debug|Win32.Build.0 = Debug
+		{B506B18D-E7B3-46C6-83E9-86C70896C931}.Release|Win32.ActiveCfg = Release
+		{B506B18D-E7B3-46C6-83E9-86C70896C931}.Test release|Win32.ActiveCfg = Release
+		{A8894546-0886-43E6-8229-69631199EF2D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A8894546-0886-43E6-8229-69631199EF2D}.Debug|Win32.Build.0 = Debug|Win32
+		{A8894546-0886-43E6-8229-69631199EF2D}.Release|Win32.ActiveCfg = Release|Win32
+		{A8894546-0886-43E6-8229-69631199EF2D}.Release|Win32.Build.0 = Release|Win32
+		{A8894546-0886-43E6-8229-69631199EF2D}.Test release|Win32.ActiveCfg = Release|Win32
+		{A8894546-0886-43E6-8229-69631199EF2D}.Test release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

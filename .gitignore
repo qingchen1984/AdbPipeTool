@@ -23,6 +23,22 @@
 *.a
 *.lib
 
+# Compiled generate debug file
+*.ncb
+*.pdb
+*.exp
+*.tlh
+*.tli
+*.user
+*.old
+*.manifest
+*.opt
+*.plg
+*.bsc
+*.clw
+*.plg
+*.msi
+
 # Executables
 *.exe
 *.out
